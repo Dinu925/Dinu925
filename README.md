@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinu925
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java fullStack 
 - 💞️ I’m looking to collaborate on full stack course
 - 📫 How to reach me 7386128135
 - 😄 Pronouns: Mr./He
